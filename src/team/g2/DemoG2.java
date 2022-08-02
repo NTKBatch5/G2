@@ -6,6 +6,12 @@ public class DemoG2 {
 		System.out.println("Test");
 
 		System.out.println("Nasrin is testing");
+		
+		funStuff();
+	}
+	
+	public static void funStuff() {
+		System.out.println("Prajita Testing......");
 	}
 
 }
