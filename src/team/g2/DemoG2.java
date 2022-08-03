@@ -15,6 +15,7 @@ public class DemoG2 {
 
 	public static void funStuff() {
 		System.out.println("Prajita Testing......");
+		
 	}
 
 	// testing y seyar
@@ -24,6 +25,7 @@ public class DemoG2 {
 	 
 		DemoG2 obj  = new DemoG2();
 		obj.NewMethod();
+		String name = "Conflict";
 		
 	}
 	public void NewMethod() {
@@ -39,6 +41,7 @@ public class DemoG2 {
 	 
 	
 	}
+
 	
 
 }
