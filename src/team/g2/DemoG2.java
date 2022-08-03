@@ -34,6 +34,11 @@ public class DemoG2 {
 	
 	//creating conflict
 	
-	//conflict 2
+	public static void testingConflict() {
+		System.out.println("testing Conflict......");
+	 
+	
+	}
+	
 
 }
