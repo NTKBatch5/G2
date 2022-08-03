@@ -17,7 +17,7 @@ public class DemoG2 {
 	// testing y seyar
 
 	public static void funStuff2() {
-		System.out.println("Prajita Testing......");
+		System.out.println("Nasrin Testing......");
 	}
 
 }
