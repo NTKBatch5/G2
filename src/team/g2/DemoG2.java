@@ -18,6 +18,15 @@ public class DemoG2 {
 
 	public static void funStuff2() {
 		System.out.println("Nasrin Testing......");
+	 
+		DemoG2 obj  = new DemoG2();
+		obj.NewMethod();
+		
+	}
+	public void NewMethod() {
+		String c1= "Nasrin said call";
+		
+				System.out.println("Gonzalo testiingg... 08-01-2022 11:55:00" + c1);
 	}
 
 }
