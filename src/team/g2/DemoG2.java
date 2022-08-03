@@ -9,39 +9,29 @@ public class DemoG2 {
 
 		funStuff();
 	}
-	public static void nasrin(){
+
+	public static void nasrin() {
 		System.out.println("Nasrin Testing......");
 	}
 
 	public static void funStuff() {
 		System.out.println("Prajita Testing......");
-		
+
 	}
 
 	// testing y seyar
 
-	public static void funStuff2() {
-		System.out.println("Nasrin Testing......");
-	 
-		DemoG2 obj  = new DemoG2();
-		obj.NewMethod();
-		String name = "Conflict";
-		
-	}
 	public void NewMethod() {
-		String c1= "Nasrin said call";
-		
-				System.out.println("Gonzalo testiingg... 08-01-2022 11:55:00" + c1);
-	}
-	
-	//creating conflict
-	
-	public static void testingConflict() {
-		System.out.println("testing Conflict......");
-	 
-	
+		String c1 = "Nasrin said call";
+
+		System.out.println("Gonzalo testiingg... 08-01-2022 11:55:00" + c1);
 	}
 
-	
+	// creating conflict
+
+	public static void testingConflict() {
+		System.out.println("testing Conflict......");
+
+	}
 
 }
