@@ -26,6 +26,7 @@ public class DemoG2 {
 		DemoG2 obj  = new DemoG2();
 		obj.NewMethod();
 		String name = "Conflict";
+		int age = 23;
 		
 	}
 	public void NewMethod() {
