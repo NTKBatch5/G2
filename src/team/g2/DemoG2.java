@@ -44,5 +44,15 @@ public class DemoG2 {
 
 	}
 
+	String c1= "Nasrin said call";
+	
+	System.out.println("Gonzalo testiingg... 08-01-2022 11:55:00" + c1);
+}
+
+
+//creating conflict 123
+
+public static void testingConflict() {
+System.out.println("testing Conflict......");
 
 }
