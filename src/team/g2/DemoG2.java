@@ -25,6 +25,7 @@ public class DemoG2 {
 
 	public static void funStuff2() {
 		System.out.println("Nasrin Testing......");
+		//creating conflict
 	 
 		DemoG2 obj  = new DemoG2();
 		obj.NewMethod();
