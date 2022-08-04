@@ -19,19 +19,12 @@ public class DemoG2 {
 
 	}
 
-
-	// testing y seyar 
-
-
 	public static void funStuff2() {
 		System.out.println("Nasrin Testing......");
 		//creating conflict
 	 
-		DemoG2 obj  = new DemoG2();
-		obj.NewMethod();
-		String name = "Conflict";
-		int age = 23;
-		
+		De
+		sdkn
 		//123
 	}
 
@@ -43,7 +36,7 @@ public class DemoG2 {
 
 	// testing y seyar
 
-	public void NewMethod() {
+	public void NewMethod1() {
 
 		String c1 = "Nasrin said call";
 
@@ -58,8 +51,4 @@ public class DemoG2 {
 
 	}
 
-	
 }
-
-
-
