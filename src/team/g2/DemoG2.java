@@ -10,6 +10,8 @@ public class DemoG2 {
 		funStuff();
 	}
 
+	sdklcn
+
 	public static void nasrin() {
 		System.out.println("Nasrin Testing......");
 	}
