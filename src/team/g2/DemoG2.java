@@ -29,7 +29,7 @@ public class DemoG2 {
 		System.out.println("Nasrin Testing......");
 	 
 		DemoG2 obj  = new DemoG2();
-		obj.NewMethod();
+		obj.NewMethod1();
 		String name = "Conflict";
 		int age = 23;
 		
