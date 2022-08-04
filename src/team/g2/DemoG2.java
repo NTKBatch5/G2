@@ -18,6 +18,8 @@ public class DemoG2 {
 		System.out.println("Prajita Testing......");
 
 	}
+	
+		// testing y seyar
 
 
 	// testing y seyar 
@@ -42,7 +44,7 @@ public class DemoG2 {
 
 	// testing y seyar
 
-	public void NewMethod() {
+	public void NewMethod1() {
 
 		String c1 = "Nasrin said call";
 
