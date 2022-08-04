@@ -19,6 +19,7 @@ public class DemoG2 {
 
 	}
 
+
 	// testing y seyar 
 
 
@@ -33,10 +34,20 @@ public class DemoG2 {
 		//123
 	}
 
-	public void NewMethod() {
+	public void NewMethod2() {
 		String c1 = "Nasrin said call";
 
 		System.out.println("Gonzalo testiingg... 08-01-2022 11:55:00" + c1);
+	}
+
+	// testing y seyar
+
+	public void NewMethod() {
+
+		String c1 = "Nasrin said call";
+
+		System.out.println("Gonzalo testiingg... 08-01-2022 11:55:00" + c1);
+
 	}
 
 	// creating conflict
@@ -46,4 +57,8 @@ public class DemoG2 {
 
 	}
 
+	
 }
+
+
+
