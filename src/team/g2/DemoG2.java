@@ -9,9 +9,13 @@ public class DemoG2 {
 
 		funStuff();
 	}
+	public static void nasrin(){
+		System.out.println("Nasrin Testing......");
+	}
 
 	public static void funStuff() {
 		System.out.println("Prajita Testing......");
+		
 	}
 
 	// testing y seyar
@@ -21,6 +25,7 @@ public class DemoG2 {
 	 
 		DemoG2 obj  = new DemoG2();
 		obj.NewMethod();
+		String name = "Conflict";
 		
 	}
 	public void NewMethod() {
@@ -29,12 +34,16 @@ public class DemoG2 {
 				System.out.println("Gonzalo testiingg... 08-01-2022 11:55:00" + c1);
 	}
 	
-	public static void ConflictTry() {
-		System.out.println("ConflictsRule");
+
+	//creating conflict
+	
+	public static void testingConflict() {
+		System.out.println("testing Conflict......");
 	 
-		DemoG2 obj  = new DemoG2();
-		obj.ConflictTry();
-		
+	
 	}
+
+	
+
 
 }
