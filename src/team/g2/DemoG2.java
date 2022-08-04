@@ -19,7 +19,7 @@ public class DemoG2 {
 
 	}
 
-	// testing y seyar
+	// testing y seyar 
 
 
 	public static void funStuff2() {
@@ -30,6 +30,7 @@ public class DemoG2 {
 		String name = "Conflict";
 		int age = 23;
 		
+		//123
 	}
 
 	public void NewMethod() {
