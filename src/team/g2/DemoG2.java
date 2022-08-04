@@ -10,6 +10,8 @@ public class DemoG2 {
 		funStuff();
 	}
 
+	sdklcn
+
 	public static void nasrin() {
 		System.out.println("Nasrin Testing......");
 	}
@@ -23,10 +25,28 @@ public class DemoG2 {
 		System.out.println("Nasrin Testing......");
 		//creating conflict
 	 
-		//objecttt
-		De
+
+		Desdc
 		sdkn
-		//123
+		//123'
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 
 	public void NewMethod2() {
