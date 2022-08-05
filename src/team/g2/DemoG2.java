@@ -22,7 +22,7 @@ public class DemoG2 {
 	// Seyar
 	public int sum3(int[] nums) {
 		return nums[0] + nums[1] + nums[2];
-
+  // change
 	}
 
 	// Prajita Coding bat
