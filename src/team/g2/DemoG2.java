@@ -27,6 +27,7 @@ public class DemoG2 {
 	public int sum3(int[] nums) {
 		return nums[0] + nums[1] + nums[2];
 		// change
+  // changes made
 	}
 
 	// Prajita Coding bat
