@@ -3,13 +3,14 @@ package team.g2;
 public class DemoG2 {
 
 	public static void main(String[] args) {
-		// Nasrin
+
 		DemoG2 obj = new DemoG2();
 		obj.doubleChar("The");
 
-		int arr[] = {1,56,74,85,4,7,3};
-		//prajita
+		int arr[] = { 1, 56, 74, 85, 4, 7, 3 };
+		// prajita
 		obj.maxSpan(arr);
+
 	}
 
 	// Nasrin
@@ -25,7 +26,7 @@ public class DemoG2 {
 	// Seyar
 	public int sum3(int[] nums) {
 		return nums[0] + nums[1] + nums[2];
-  // change
+		// change
 	}
 
 	// Prajita Coding bat
@@ -53,7 +54,7 @@ public class DemoG2 {
 		int count = 0;
 
 		if (a.length > 0 && a[0] == 1) // a.length > 0-- taking care of first array ( a )is any length || and seeing if
-										
+
 			count++; // add to the count
 
 		if (b.length > 0 && b[0] == 1) // b.length > 0-- taking care of 2nd array ( b )is any length || and seeing if
