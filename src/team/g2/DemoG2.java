@@ -3,48 +3,53 @@ package team.g2;
 public class DemoG2 {
 
 	public static void main(String[] args) {
-		System.out.println("Test");
-
-		System.out.println("Nasrin is testing");
-
-		funStuff();
+		
+	     System.out.println("Seyar");
+		// Nasrin
+		DemoG2 obj = new DemoG2();
+		obj.doubleChar("The");
+         
+		int [] arry = {0, 1, 2};
+		obj.sum3(arry);
 	}
 
-
-	public static void nasrin() {
-		System.out.println("Nasrin Testing......");
+	// Nasrin
+	// https://codingbat.com/prob/p165312
+	public String doubleChar(String str) {
+		String str2 = "";
+		for (int i = 0; i < str.length(); i++) {
+			str2 = str2 + str.charAt(i) + str.charAt(i);
+		}
+		return str2;
 	}
 
-	public static void funStuff() {
-		System.out.println("Prajita Testing......");
-
-	}
-
-	public static void funStuff2() {
-		System.out.println("Nasrin Testing......");
-	}
-
-	public void NewMethod2() {
-		String c1 = "Nasrin said call";
-
-		System.out.println("Gonzalo testiingg... 08-01-2022 11:55:00" + c1);
-	}
-
-	// testing y seyar
-
-	public void NewMethod1() {
-
-		String c1 = "Nasrin said call";
-
-		System.out.println("Gonzalo testiingg... 08-01-2022 11:55:00" + c1);
+	// Seyar
+	public int sum3(int[] nums) {
+		return nums[0] + nums[1] + nums[2];
 
 	}
 
-	// creating conflict
+	// Prajita Coding bat
+	public int maxSpan(int[] nums) {
+		  int result = 0;
+		  int larg = 0;
+		  for(int x = 0; x<nums.length;x++){
+		    for(int i = nums.length-1; i>=0; i--){
+		      if(nums[x]==nums[i]){
+		        result = i-x+1;
+		        break;
+		      }
+		    }
+		      if(larg<result){
+		        larg = result;
+		      }
+		    }
+		  
+		  
+		  return larg;
+		}
 
-	public static void testingConflict() {
-		System.out.println("testing Conflict......");
-
+		return larg;
 	}
 
 }
