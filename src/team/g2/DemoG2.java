@@ -19,4 +19,33 @@ public class DemoG2 {
 		return str2;
 	}
 
+	// Seyar
+	public int sum3(int[] nums) {
+		return nums[0] + nums[1] + nums[2];
+     
+	}
+
+	// Prajita Coding bat
+	public int maxSpan(int[] nums) {
+		  int result = 0;
+		  int larg = 0;
+		  for(int x = 0; x<nums.length;x++){
+		    for(int i = nums.length-1; i>=0; i--){
+		      if(nums[x]==nums[i]){
+		        result = i-x+1;
+		        break;
+		      }
+		    }
+		      if(larg<result){
+		        larg = result;
+		      }
+		    }
+		  
+		  
+		  return larg;
+		}
+
+		return larg;
+	}
+
 }
