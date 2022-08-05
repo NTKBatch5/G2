@@ -13,6 +13,9 @@ public class DemoG2 {
 
 		System.out.println("123");
 	}
+	public static void prajita() {
+		System.out.println("prajita..");
+	}
 
 	// Nasrin
 	// https://codingbat.com/prob/p165312
