@@ -11,7 +11,7 @@ public class DemoG2 {
 		// prajita
 		obj.maxSpan(arr);
 
-		System.out.println("prajita");
+		System.out.println("123");
 	}
 
 	// Nasrin
@@ -22,13 +22,14 @@ public class DemoG2 {
 			str2 = str2 + str.charAt(i) + str.charAt(i);
 		}
 		return str2;
+
 	}
 
 	// Seyar
 	public int sum3(int[] nums) {
 		return nums[0] + nums[1] + nums[2];
 		// change
-  // changes made
+		// changes made
 	}
 
 	// Prajita Coding bat
