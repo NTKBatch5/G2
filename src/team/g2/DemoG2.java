@@ -3,10 +3,14 @@ package team.g2;
 public class DemoG2 {
 
 	public static void main(String[] args) {
+		
+	     System.out.println("Seyar");
 		// Nasrin
 		DemoG2 obj = new DemoG2();
 		obj.doubleChar("The");
-
+         
+		int [] arry = {0, 1, 2};
+		obj.sum3(arry);
 	}
 
 	// Nasrin
@@ -22,7 +26,7 @@ public class DemoG2 {
 	// Seyar
 	public int sum3(int[] nums) {
 		return nums[0] + nums[1] + nums[2];
-     
+
 	}
 
 	// Prajita Coding bat
