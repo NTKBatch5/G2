@@ -7,6 +7,9 @@ public class DemoG2 {
 		DemoG2 obj = new DemoG2();
 		obj.doubleChar("The");
 
+		int arr[] = {1,56,74,85,4,7,3};
+		//prajita
+		obj.maxSpan(arr);
 	}
 
 	// Nasrin
