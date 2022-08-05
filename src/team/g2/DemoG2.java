@@ -28,6 +28,10 @@ public class DemoG2 {
 
 	}
 
+	public static void nasrin() {
+		System.out.println("Nasrin is Testing");
+	}
+
 	// Seyar
 	public int sum3(int[] nums) {
 		return nums[0] + nums[1] + nums[2];
