@@ -18,8 +18,14 @@ public class DemoG2 {
 		}
 		return str2;
 	}
-	
-	//Prajita Coding bat
+
+	// Seyar
+	public int sum3(int[] nums) {
+		return nums[0] + nums[1] + nums[2];
+     
+	}
+
+	// Prajita Coding bat
 	public int maxSpan(int[] nums) {
 		  int result = 0;
 		  int larg = 0;
@@ -39,5 +45,7 @@ public class DemoG2 {
 		  return larg;
 		}
 
+		return larg;
+	}
 
 }
