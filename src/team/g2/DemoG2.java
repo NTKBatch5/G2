@@ -3,14 +3,10 @@ package team.g2;
 public class DemoG2 {
 
 	public static void main(String[] args) {
-		
-	     System.out.println("Seyar");
 		// Nasrin
 		DemoG2 obj = new DemoG2();
 		obj.doubleChar("The");
-         
-		int [] arry = {0, 1, 2};
-		obj.sum3(arry);
+
 	}
 
 	// Nasrin
@@ -54,7 +50,7 @@ public class DemoG2 {
 		int count = 0;
 
 		if (a.length > 0 && a[0] == 1) // a.length > 0-- taking care of first array ( a )is any length || and seeing if
-										// first index [0] is = 1
+										
 			count++; // add to the count
 
 		if (b.length > 0 && b[0] == 1) // b.length > 0-- taking care of 2nd array ( b )is any length || and seeing if
