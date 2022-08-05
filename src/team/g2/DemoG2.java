@@ -11,6 +11,7 @@ public class DemoG2 {
 		// prajita
 		obj.maxSpan(arr);
 
+		System.out.println("prajita");
 	}
 
 	// Nasrin
