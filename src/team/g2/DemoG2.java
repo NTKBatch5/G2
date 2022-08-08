@@ -13,6 +13,7 @@ public class DemoG2 {
 
 		System.out.println("123");
 	}
+
 	public static void prajita() {
 		System.out.println("prajita...");
 	}
@@ -26,6 +27,17 @@ public class DemoG2 {
 		}
 		return str2;
 
+	}
+
+	// Nasrin
+	public static int[] maxEnd3(int[] nums) {
+
+		int temp = Math.max(nums[0], nums[2]);
+
+		for (int i = 0; i < 3; i++) {
+			nums[i] = temp;
+		}
+		return nums;
 	}
 
 	public static void nasrin() {
