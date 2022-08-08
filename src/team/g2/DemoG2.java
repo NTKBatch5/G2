@@ -17,6 +17,10 @@ public class DemoG2 {
 	public static void prajita() {
 		System.out.println("prajita...");
 	}
+	
+	public static void multiply() {
+		System.out.println("Multiplying..");
+	}
 
 	// Nasrin
 	// https://codingbat.com/prob/p165312
