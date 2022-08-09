@@ -12,12 +12,14 @@ public class DemoG2 {
 		obj.maxSpan(arr);
 
 		System.out.println("123");
+
+		// adding new line
 	}
 
 	public static void prajita() {
 		System.out.println("prajita...");
 	}
-	
+
 	public static void multiply() {
 		System.out.println("Multiplying..");
 	}
