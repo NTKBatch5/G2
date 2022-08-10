@@ -74,6 +74,7 @@ public class DemoG2 {
 		return larg;
 	}
 
+	//prajita changing
 // 									⎛⎝(⌒ⱅ⌒ )⎠⎞  Gonzalos CodingBat    ⎛⎝(•ⱅ•)⎠⎞ 
 	public int start1(int[] a, int[] b) {
 
